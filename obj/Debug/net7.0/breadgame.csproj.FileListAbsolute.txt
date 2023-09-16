@@ -1,0 +1,15 @@
+C:\Users\brosf\Desktop\my coding adventure\breadgame\bin\Debug\net7.0\breadgame.exe
+C:\Users\brosf\Desktop\my coding adventure\breadgame\bin\Debug\net7.0\breadgame.deps.json
+C:\Users\brosf\Desktop\my coding adventure\breadgame\bin\Debug\net7.0\breadgame.runtimeconfig.json
+C:\Users\brosf\Desktop\my coding adventure\breadgame\bin\Debug\net7.0\breadgame.dll
+C:\Users\brosf\Desktop\my coding adventure\breadgame\bin\Debug\net7.0\breadgame.pdb
+C:\Users\brosf\Desktop\my coding adventure\breadgame\obj\Debug\net7.0\breadgame.csproj.AssemblyReference.cache
+C:\Users\brosf\Desktop\my coding adventure\breadgame\obj\Debug\net7.0\breadgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brosf\Desktop\my coding adventure\breadgame\obj\Debug\net7.0\breadgame.AssemblyInfoInputs.cache
+C:\Users\brosf\Desktop\my coding adventure\breadgame\obj\Debug\net7.0\breadgame.AssemblyInfo.cs
+C:\Users\brosf\Desktop\my coding adventure\breadgame\obj\Debug\net7.0\breadgame.csproj.CoreCompileInputs.cache
+C:\Users\brosf\Desktop\my coding adventure\breadgame\obj\Debug\net7.0\breadgame.dll
+C:\Users\brosf\Desktop\my coding adventure\breadgame\obj\Debug\net7.0\refint\breadgame.dll
+C:\Users\brosf\Desktop\my coding adventure\breadgame\obj\Debug\net7.0\breadgame.pdb
+C:\Users\brosf\Desktop\my coding adventure\breadgame\obj\Debug\net7.0\breadgame.genruntimeconfig.cache
+C:\Users\brosf\Desktop\my coding adventure\breadgame\obj\Debug\net7.0\ref\breadgame.dll

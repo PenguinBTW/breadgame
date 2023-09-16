@@ -1,0 +1,2 @@
+C:\Users\brosf\Desktop\my coding adventure\breadgame\bin\Release\net7.0\win-x64\publish\breadgame.pdb
+C:\Users\brosf\Desktop\my coding adventure\breadgame\bin\Release\net7.0\win-x64\publish\breadgame.exe
