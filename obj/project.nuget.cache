@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kbyrdehTQZIEDgk3oJqTQOSTohw2PQ+FU3klFCghziz0GMJgRzEBxWJvu8FvGv/HilBipro6U04O9JYhDdYb1g==",
+  "dgSpecHash": "QSJ1vZRWVzLKEqcD/G/qUwsjz9rgXwUAyZhc0B2NC3jHA+7X9e/IAVNn/85p7CwdLFOKb8Nb+M79CCTmXx2QIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\brosf\\Desktop\\my coding adventure\\breadgame\\breadgame.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\brosf\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.9\\microsoft.netcore.app.runtime.win-x64.7.0.9.nupkg.sha512",
-    "C:\\Users\\brosf\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.9.nupkg.sha512",
-    "C:\\Users\\brosf\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.9\\microsoft.aspnetcore.app.runtime.win-x64.7.0.9.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

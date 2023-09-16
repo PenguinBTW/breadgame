@@ -44,6 +44,16 @@ class Make {
             Console.WriteLine("press enter to continue");
 		}
    }
+   public void makesourdough() {
+    Random rnd = new Random();
+		for (int j = 0; j < 1; j++)
+		{
+			randomnumber = rnd.Next(3, 10);
+            xp += randomnumber;
+            Console.WriteLine("You made " + breadtype + " which was rated " + randomnumber + "/10 giving you " + randomnumber + " xp");
+            Console.WriteLine("press enter to continue");
+		}
+   }
 
 }
 
@@ -79,6 +89,7 @@ class Program
                 user.makebread();
             } else if (user.breadtype == "roll") {user.makeroll(); }
             else if (user.breadtype == "baguette") {user.makebaguette();}
+            else if (user.breadtype == "sourdough") {user.makesourdough();}
         }else if (user.answer == "help")
         {
             Console.WriteLine("\nxp - to view current xp\nbread type - view current best unlocked bread type\nmake - make best bread you own\nshop - lets you buy new bread with xp\nexit - quit the program\n\npress enter to continue");
@@ -92,7 +103,7 @@ class Program
             Console.WriteLine("press enter to continue");
         } else if (user.answer == "shop")
         {
-            Console.WriteLine("Your current bread type is " + user.breadtype + "\n0 bread - default\n1 roll - 5xp\n2 baguette - 20xp\n\ncurrent xp = " + user.xp);
+            Console.WriteLine("Your current bread type is " + user.breadtype + "\n0 Bread - default\n1 Roll - 5xp\n2 Baguette - 20xp\n3 Sourdough - 100xp\n\ncurrent xp = " + user.xp);
             Console.WriteLine("Would you like to buy a new bread, yes or no");
             user.likebuy = Console.ReadLine();
             if (user.likebuy == "yes") {
@@ -101,9 +112,11 @@ class Program
                 if (user.purch == "1") { if (user.xp > 5) { user.xp -= 5;  user.breadtype = "roll"; Console.WriteLine("Your new bread type is a roll\nyou have " + user.xp + " xp left\n\nPress enter to go back");}
                 else if (user.xp < 5) { Console.WriteLine("Sorry you only have " + user.xp + " xp");}} 
                 else if (user.purch == "2") { if (user.xp > 20) { user.xp -= 20;  user.breadtype = "baguette"; Console.WriteLine("Your new bread type is a baguette\nyou have " + user.xp + " xp left\n\nPress enter to go back");}
-                else if (user.xp < 20) { Console.WriteLine("Sorry you only have " + user.xp + " xp");}
+                else if (user.xp < 20) { Console.WriteLine("Sorry you only have " + user.xp + " xp");}}
+                else if (user.purch == "3") { if (user.xp > 100) { user.xp -= 100; user.breadtype = "sourdough"; Console.WriteLine("Your new bread type is a sourdough\nyou have " + user.xp + " xp left\n\nPress enter to go back");}
+                else if (user.xp < 100) { Console.WriteLine("Sorry you only have " + user.xp + " xp");}}
                 else {Console.WriteLine("Sorry thats not an option\n\npress enter to go back");}
-                }
+                
             } else { Console.WriteLine("\npress enter to go back");}
             
         }else if (user.answer == "exit")
