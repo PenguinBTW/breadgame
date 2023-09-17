@@ -20,7 +20,7 @@ class Make {
 		{
 			randomnumber = rnd.Next(1, 5);
             xp += randomnumber;
-            Console.WriteLine("You made " + breadtype + " which was rated " + randomnumber + "/4 giving you " + randomnumber + " xp");
+            Console.WriteLine("You made " + breadtype + " which was rated " + randomnumber + "/4, You now have " + xp + " xp");
             Console.WriteLine("press enter to continue");
 		}
    } 
@@ -30,7 +30,7 @@ class Make {
 		{
 			randomnumber = rnd.Next(1, 6);
             xp += randomnumber;
-            Console.WriteLine("You made " + breadtype + " which was rated " + randomnumber + "/5 giving you " + randomnumber + " xp");
+            Console.WriteLine("You made " + breadtype + " which was rated " + randomnumber + "/5, You now have " + xp + " xp" );
             Console.WriteLine("press enter to continue");
 		}
    }
@@ -40,7 +40,7 @@ class Make {
 		{
 			randomnumber = rnd.Next(2, 7);
             xp += randomnumber;
-            Console.WriteLine("You made " + breadtype + " which was rated " + randomnumber + "/6 giving you " + randomnumber + " xp");
+            Console.WriteLine("You made " + breadtype + " which was rated " + randomnumber + "/6, You now have " + xp + " xp");
             Console.WriteLine("press enter to continue");
 		}
    }
@@ -50,7 +50,7 @@ class Make {
 		{
 			randomnumber = rnd.Next(3, 10);
             xp += randomnumber;
-            Console.WriteLine("You made " + breadtype + " which was rated " + randomnumber + "/10 giving you " + randomnumber + " xp");
+            Console.WriteLine("You made " + breadtype + " which was rated " + randomnumber + "/10, You now have " + xp + " xp");
             Console.WriteLine("press enter to continue");
 		}
    }
