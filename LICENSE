@@ -1,20 +1,30 @@
-BSD 3-Clause License
+BTW Open Source License
 
 Copyright (c) 2023, PenguinBTW
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+This content is prodived by PenguinBTW under the conditions set out below. Your access to this content can be revoked at anytime
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+Section A: uses and redistribution
+1. You are allowed to download and use this program for personal use.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+2. Modification of the programs source code is allowed for personal use but not to redistribute for commercial gain.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+3. You may not redistribute this sofware by code and must send the download link provided by us. You are permitted to redistribute the code for the purpose of creating or restoring from a backup.
+
+4. Credit is always required. Redistribution under a different name or as your own software requires written permission from the project owner and a significant amount of the project to be changed.
+
+5. If you are approved to redistribute this project you must attach a copy of this license agreement and disclaimer with your project.
+
+6. Any projects created using this base code must remain free and open source, unless written approval by the owner is given.
+
+Section B: improving the base project
+1. If you want to improve or add features to the main project, download the source code edit it and submit your change as a pull request. Redistributing the modified software in a different way without permission is not allowed.
+
+Section C: Protecting owners name
+1. If permission is granted to redistribute a modified version of this project you may not use the PenguinBTW name or any other affiliating names to market or brand the project. You may only use the name to credit the original creator.
+
+Section D: change
+1. The project owner has permission to change this license at anytime however once this license is applied the project cannot revoke access to freely view and modify the source or the freedom to download all versions created before the new license. The new license terms will only apply to new versions to the project.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
@@ -26,3 +36,4 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
